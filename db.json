@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Kohli",
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "Bob Taylor",
+      "age": 45,
+      "active": false
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "price": 10,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "price": 7,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Ice Cream",
+      "price": 2.5,
+      "active": false
+    },
+    {
+      "id": 10,
+      "name": "Kit-Kat",
+      "price": 20,
+      "active": false
+    }
+  ]
+}
